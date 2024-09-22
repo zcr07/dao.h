@@ -418,4 +418,14 @@
 		"desc": "成语 文言文",
 		"logo": "https://cdn.jsdelivr.net/gh/zcr07/picx-images-hosting@master/1/4.6ik90pgfow.ico"
 	}]
+	}, {
+	"_id": "blog",
+	"classify": "叭叭粢 🔭",
+	"icon": "ti-medall-alt",
+	"sites": [{
+		"name": "Git's Blog ",
+		"href": "https://r08.us.kg/",
+		"desc": "成语 文言文",
+		"logo": "https://cdn.jsdelivr.net/gh/zcr07/picx-images-hosting@master/1/4.6ik90pgfow.ico"
+	}]
 }]
